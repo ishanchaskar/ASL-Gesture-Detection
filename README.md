@@ -4,7 +4,6 @@ This project detects American Sign Language (ASL) alphabets (A-Z) in real-time u
 <p align="center">
   <img src="asl_lang.jpg" alt="ASL Sign Language Detection" width="30%" />
 </p>
->
 
 
 ## Requirements
