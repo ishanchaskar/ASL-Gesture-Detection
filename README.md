@@ -2,8 +2,9 @@
 
 This project detects American Sign Language (ASL) alphabets (A-Z) in real-time using a webcam feed. It combines **EfficientNet-B0** and **DeiT-Base** models for robust feature extraction and classification.
 <p align="center">
-  <img src="asl_lang.jpg" alt="ASL Sign Language Detection" />
+  <img src="asl_lang.jpg" alt="ASL Sign Language Detection" width="30%" />
 </p>
+>
 
 
 ## Requirements
