@@ -31,9 +31,9 @@ pip install torch torchvision opencv-python timm numpy pillow
 
 ## Files
 
-- `model.py` — Defines the `EfficientNetDeiTHybrid` model.
-- `efficientnet_deit_best.pth` — Pretrained model weights file.
-- `main.py` — Captures webcam feed and makes real-time predictions.
+- `train.py` — Defines the `EfficientNetDeiTHybrid` model.
+- `model.pth` — Pretrained model weights file.
+- `test.py` — Captures webcam feed and makes real-time predictions.
 
 ## How to Run
 
