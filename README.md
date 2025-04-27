@@ -58,6 +58,12 @@ docker run --device=/dev/video0 your_image_name
 
 - Make sure the model path inside the script (`/kaggle/working/efficientnet_deit_best.pth`) is updated if you move the file.
 
+## Results
+- Following results are achieved
+   <p align="center">
+  <img src="res.PNG" alt="ASL Sign Language Detection" width="30%" />
+</p>
+
 ## Troubleshooting
 
 - **Error: Could not open webcam** — Check if your webcam is properly connected and accessible.
